@@ -1,0 +1,6 @@
+@CreateCustomerSocialMediaHandlers_HostAddress = http://localhost:5287
+
+GET {{CreateCustomerSocialMediaHandlers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

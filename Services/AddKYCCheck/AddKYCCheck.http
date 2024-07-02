@@ -1,0 +1,6 @@
+@AddKYCCheck_HostAddress = http://localhost:5108
+
+GET {{AddKYCCheck_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

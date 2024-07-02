@@ -1,0 +1,6 @@
+@CreateAccount_HostAddress = http://localhost:5095
+
+POST {{CreateAccount_HostAddress}}/createaccount
+Content-Type: application/json
+Accept: application/json
+

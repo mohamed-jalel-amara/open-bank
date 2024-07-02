@@ -1,0 +1,6 @@
+@GetTransactionTypesAtBank_HostAddress = http://localhost:5054
+
+GET {{GetTransactionTypesAtBank_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

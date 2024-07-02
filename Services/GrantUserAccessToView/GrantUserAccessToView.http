@@ -1,0 +1,6 @@
+@GrantUserAccessToView_HostAddress = http://localhost:5108
+
+GET {{GrantUserAccessToView_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@DeleteCustomView_HostAddress = http://localhost:5136
+
+GET {{DeleteCustomView_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

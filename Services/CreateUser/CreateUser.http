@@ -1,0 +1,6 @@
+@CreateUser_HostAddress = http://localhost:5233
+
+GET {{CreateUser_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

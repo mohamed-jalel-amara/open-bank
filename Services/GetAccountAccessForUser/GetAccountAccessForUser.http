@@ -1,0 +1,6 @@
+@GetAccountAccessForUser_HostAddress = http://localhost:5067
+
+GET {{GetAccountAccessForUser_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

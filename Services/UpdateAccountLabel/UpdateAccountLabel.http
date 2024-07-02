@@ -1,0 +1,6 @@
+@UpdateAccountLabel_HostAddress = http://localhost:5117
+
+GET {{UpdateAccountLabel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

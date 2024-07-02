@@ -1,0 +1,6 @@
+@CreateCustomerMessage_HostAddress = http://localhost:5172
+
+GET {{CreateCustomerMessage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

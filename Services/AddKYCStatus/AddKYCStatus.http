@@ -1,0 +1,6 @@
+@AddKYCStatus_HostAddress = http://localhost:5130
+
+GET {{AddKYCStatus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
